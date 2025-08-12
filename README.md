@@ -113,7 +113,7 @@ This project is licensed under the MIT License.
 Contact
 -------
 
-For questions or suggestions, please contact [Your Name] at [your.email@example.com].
+For questions or suggestions, please contact Aswin at aswindasm84@gmail.com.
 
 Thank you for checking out this HIDS project.  
-Happy coding and stay secure!
+Happy coding! stay safe!
